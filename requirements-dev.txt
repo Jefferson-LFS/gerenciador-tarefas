@@ -1,2 +1,3 @@
 - r requiments.txt
 pytest==5.4.3
+httpie==2.2.0
